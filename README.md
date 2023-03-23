@@ -1,0 +1,2 @@
+# gempa
+ini file gempa
